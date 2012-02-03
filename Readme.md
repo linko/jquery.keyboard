@@ -1,11 +1,9 @@
 <h1>jQuery keyboard plugin</h1>
-<hr>
 This simple plugin makes static keyboard alive! It provides prepared functionality and works with english, russian and symbol keyboards. You a free to add any other language and only you should to do is provide switching among them using already existing mechanism for en-ru
 Also you can specify your custom display function, for example for outputting a phone number in special format
 
 
 <h1>Usage</h1>
-<hr>
 $(document).ready(function(){			
   options = {                               
     maxInputLength : 128,            
@@ -24,10 +22,6 @@ $(document).ready(function(){
 	<li><strong>inputFilter</strong> - ability to provide a white list of letters/digits/symbols. By default allow all - /[a-zA-Zа-яА-Я0-9()-]/</li>
 	<li><strong>displayContainer</strong> - container for output</li>
 	<li><strong>maxInputLength</strong> - you can set maximum characters count in the buffer and output container</li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
 </ul>
 
 For control keys you should use individual selectors:
@@ -43,5 +37,4 @@ For control keys you should use individual selectors:
 </ul>
 
 <h1>Additionals</h1>
-<hr> 
 Here is a working example with Russian, English and symbols keyboard with all preset settings, html markup and css styles, so you just need to download and open html file in your favorite browser!
