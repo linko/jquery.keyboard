@@ -37,3 +37,4 @@ Also you can specify your custom display function, for example for outputting a 
 
 <h1>Additionals</h1>
 Here is a working example with Russian, English and symbols keyboard with all preset settings, html markup and css styles, so you just need to download and open html file in your favorite browser!
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/linko/jquery.keyboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
